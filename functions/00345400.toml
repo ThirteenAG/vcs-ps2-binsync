@@ -1,0 +1,9 @@
+[metadata]
+addr = 0x345400
+size = 0x0
+last_change = 2024-09-20T15:25:32.922776Z
+
+[header]
+last_change = 2024-09-20T15:25:32.922776Z
+addr = 0x345400
+type = "float"
